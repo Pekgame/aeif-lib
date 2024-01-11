@@ -1,0 +1,9 @@
+LICENCE
+README.md
+setup.py
+src/aeif_lib/__init__.py
+src/aeif_lib.egg-info/PKG-INFO
+src/aeif_lib.egg-info/SOURCES.txt
+src/aeif_lib.egg-info/dependency_links.txt
+src/aeif_lib.egg-info/requires.txt
+src/aeif_lib.egg-info/top_level.txt
