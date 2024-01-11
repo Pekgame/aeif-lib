@@ -21,7 +21,7 @@ from aeif_lib import genkey
 
 # Generate a random key with the specified size
 # (only 16, 24, and 32 bytes is supported) and save it to a file
-key_path = key = genkey("path/to/save/key")
+key_path, key = genkey("path/to/save/key")
 ```
 
 ### Encrypting an image
