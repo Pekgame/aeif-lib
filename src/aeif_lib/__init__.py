@@ -25,6 +25,8 @@ class AEIFManager:
         if key_path != '':
             with open(key_path, 'rb') as key_file:
                 self.key = key_file.read()
+        else:
+            self.key = b''
 
     def encrypt(self, input_path: str, output_path: str, key_path='', key=b'', iv=b'') -> str:
         """
