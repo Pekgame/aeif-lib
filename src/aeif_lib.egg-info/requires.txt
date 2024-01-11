@@ -1,4 +1,0 @@
-pycryptodome>=3.19.0
-
-[dev]
-twine>=4.0.2
